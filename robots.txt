@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/  # Block admin pages (if any)
+Disallow: /private/  # Block private pages (if any)
+
+Sitemap: https://hardestgameever.netlify.app/sitemap.xml
